@@ -1,3 +1,6 @@
+*The dataset used for this project :- https://drive.google.com/file/d/1rydAepWim_Pi0Krh1-RoJjJjDKwc4Gpv/view *
+
+
 --1. How many distinct zip codes are in this dataset?
 
 select count(distinct zip_code) from home_value_data;
