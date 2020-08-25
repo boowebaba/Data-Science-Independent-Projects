@@ -1,5 +1,10 @@
 *Project: Trends in Estimated Home Values*
 
+*Overview
+*Objective
+
+--You are asked by a company to help them make more informed decisions on real estate investments. Start by analyzing the data on median estimated values of single family homes by    zip codes from the past two decades.
+
 --The dataset used for this project :- 
 https://drive.google.com/file/d/1rydAepWim_Pi0Krh1-RoJjJjDKwc4Gpv/view 
 
