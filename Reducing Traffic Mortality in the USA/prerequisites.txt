@@ -1,0 +1,5 @@
+Prerequisites
+
+    Intermediate Python
+    Introduction to Data Visualization in Python
+    Supervised Learning with scikit-learn
